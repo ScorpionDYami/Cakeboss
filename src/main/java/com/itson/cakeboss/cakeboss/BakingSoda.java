@@ -6,8 +6,10 @@ package com.itson.cakeboss.cakeboss;
 
 /**
  *
- * @author alumnog
+ * @author Rayan
  */
 public class BakingSoda {
+
+String soda = "soda";
     
 }
